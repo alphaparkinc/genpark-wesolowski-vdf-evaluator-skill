@@ -1,0 +1,15 @@
+{
+  "name": "genpark-wesolowski-vdf-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Wesolowski Verifiable Delay Function (VDF) modular exponentiation evaluator and O(1) non-interactive B\u00e9zout proof verification engine.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "vdf",
+    "verifiable-delay-function",
+    "cryptography",
+    "wesolowski"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
